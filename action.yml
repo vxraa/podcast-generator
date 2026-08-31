@@ -1,6 +1,6 @@
-name: "PodcastGenerator"
+name: "vxraa-podcast-generator"
 author: "Ray Villalobos"
-description: "Generates a feed for podcast from a YAML file"
+description: "Generates a podcast RSS feed from a YAML file"
 runs:
   using: "docker"
   image: "Dockerfile"
